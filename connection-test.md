@@ -1,0 +1,1 @@
+Open Jar connection test successful.
